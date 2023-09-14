@@ -55,6 +55,7 @@ export default function Home() {
             <div className='max-w-full py-16 px-4 mt-20' >
                 <div className='max-w-7xl bg-white mx-auto'>
                     <div>
+                        <h1 className='text-center text-4xl font-semibold animate-pulse  ' >Welcome to the Muzammil's App</h1>
                         <h1 className='text-center text-4xl font-semibold animate-pulse  ' >Get GitHub Users</h1>
                         <div className='bg-white shadow-lg p-4' >
                             <label htmlFor="user" className="text-lg font-semibold mb-2" >Enter UserName</label>
